@@ -40,18 +40,18 @@
 
 ## 初赛-疾病预测结构化数据
 
-- 最终代码：[disease_prediction.ipynb]()
+- 最终代码：[disease_prediction.ipynb](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/disease_prediction.ipynb)
 
-- 排名：初赛-**个人赛第43名**！（附在：[first_score.png]()）
+- 排名：初赛-**个人赛第43名**！（附在：[first_score.png](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/first_score.png)）
 
 ## 复赛-天气情况图像分类
 
-- 最终代码：[weather_image_classification.ipynb]()
+- 最终代码：[weather_image_classification.ipynb](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/weather_image_classification.ipynb)
 
-- 排名：初赛-**个人赛第4名**！（附在：[final_score.png]()）
+- 排名：初赛-**个人赛第4名**！（附在：[final_score.png](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/final_score.png)）
 
 ## 复赛报告提交
 
-- [兄弟们别冲了准备投 SN _王荣胜.docx]()
-- [兄弟们别冲了准备投 SN _王荣胜.pdf]()
+- [兄弟们别冲了准备投 SN _王荣胜.docx](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/%E5%85%84%E5%BC%9F%E4%BB%AC%E5%88%AB%E5%86%B2%E4%BA%86%E5%87%86%E5%A4%87%E6%8A%95%20SN%20_%E7%8E%8B%E8%8D%A3%E8%83%9C.docx)
+- [兄弟们别冲了准备投 SN _王荣胜.pdf](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/%E5%85%84%E5%BC%9F%E4%BB%AC%E5%88%AB%E5%86%B2%E4%BA%86%E5%87%86%E5%A4%87%E6%8A%95%20SN%20_%E7%8E%8B%E8%8D%A3%E8%83%9C.pdf)
 
