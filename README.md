@@ -48,7 +48,7 @@
 
 - 最终代码：[weather_image_classification.ipynb](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/weather_image_classification.ipynb)
 
-- 排名：初赛-**个人赛第3名**！（附在：[final_score.png](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/final_score.png)）
+- 排名：复赛-**个人赛第3名**！（附在：[final_score.png](https://github.com/WangRongsheng/IAS-AI_challenge/blob/main/final_score.png)）
 
 ## 复赛报告提交
 
